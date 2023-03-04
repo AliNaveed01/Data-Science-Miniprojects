@@ -1,0 +1,6 @@
+1) make sure that the images folder is at the same path where this code is
+2) First run the starter code so that it can get some knowledge of the faces in there
+3) The prototxt files ad the models must be present at the same path 
+4) as they are the deep learning neural network models for it
+5) then run the main FACE AGE GENDER detection code. 
+6) enjoy.
